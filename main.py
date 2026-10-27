@@ -6,3 +6,4 @@ def logout(): pass
 def login(): pass
 
 print('Ceci est le travail du collegue')
+print('Oups, erreur')
